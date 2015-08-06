@@ -1,0 +1,18 @@
+h3{color: blue;}
+img{width: 400px}
+p{font-size: 0.8em}
+p{font-weight: 2em}
+#greenItem{color: blue;}
+#redItem{color: red}
+#pinkItem{text-decoration:underline; }
+.left{float: left;
+       border-style: solid;
+       border-width: 20x;
+       border-color: orange;}
+#image{float: clear left clear right;
+margin:50px;
+border-style: solid;
+border-width: 20px;
+border-color: brown;}
+.clear{clear: right;
+margin-right: 20px;}
